@@ -122,4 +122,3 @@ Aspiring Data Analyst | Power BI | Python | SQL
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
