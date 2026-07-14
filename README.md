@@ -81,11 +81,11 @@ Cafe-Sales-Analysis/
 
 ### Sales Report Dashboard
 
-![Dashboard Page 1](dashboard_page1.png)
+![Dashboard Page 1](DASH_pg1.png)
 
 ### Operational Insights
 
-![Dashboard Page 2](dashboard_page2.png)
+![Dashboard Page 2](DASH_pg2.png)
 
 ---
 
