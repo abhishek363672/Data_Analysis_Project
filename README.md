@@ -77,17 +77,6 @@ Cafe-Sales-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
-
-### Sales Report Dashboard
-
-![Dashboard Page 1](DASH_pg1.png)
-
-### Operational Insights
-
-![Dashboard Page 2](DASH_pg2.png)
-
----
 
 ## 📋 Data Analysis Workflow
 
